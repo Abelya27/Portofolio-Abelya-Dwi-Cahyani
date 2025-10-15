@@ -1,0 +1,23 @@
+[
+	{
+        "company": "Electrical Engineering Student Association - Polines",
+		"logo":"images/hme.png",
+        "position": "Secretary of the Household Division",
+        "year": "2023 - 2024",
+        "description": "I serve as the Secretary of the Household Division in the Student Association of the Department of Electrical Engineering, where I assist the division head, manage office supplies to support the organization’s secretarial functions, record and prepare meeting minutes, and help enforce organizational rules to ensure compliance among all staff members."
+    },
+    {
+        "company": "Electrical Engineering Student Association - Polines",
+		"logo":"images/hme.png",
+        "position": "Research and Development Staff",
+        "year": "2024 - 2025",
+        "description": "As a Research and Development Staff at the Student Association of Politeknik Negeri Semarang, I am responsible for overseeing, providing feedback, and evaluating every work program and agenda carried out by the association members during the 2024/2025 period."
+    },
+    {
+        "company": "PT Ruang Industri Indonesia",
+		"logo":"images/rii.png",
+        "position": "Internship Student",
+        "year": "August 2024 - December 2024",
+        "description": "As an intern at PT Ruang Industri Indonesia, I successfully developed a project titled ESP32-Based Bottle Cap Quality Control System with my team of three members. I programmed an ESP32 microcontroller in C++ to control an actuator (servo motor) based on messages received from an image processing system via MQTT. Additionally, I developed a C++ program for an Arduino UNO microcontroller to operate the conveyor motor."
+    }
+]

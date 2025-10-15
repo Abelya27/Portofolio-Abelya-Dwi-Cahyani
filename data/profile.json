@@ -1,0 +1,30 @@
+{
+    "name": "Abelya Dwi Cahyani - Electronics Engineering Graduate",
+    "description": "I am a graduate of Electronics Engineering from Politeknik Negeri Semarang with strong hands-on experience in assembling and testing electronic components. I am eager to apply and further develop my technical skills through professional projects and real-world industrial applications.",
+    "profileImage": "images/Abel.png",
+    "email": "abelyacahyani27@gmail.com",
+    "phone": "+62 889 5140 706",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/abelya-dwi-cahyani-2837b22b9"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/blyaa.27/"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV1.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Circuit Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 70},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 80},
+        {"name": "Web Programming", "icon": "fas fa-code", "level": 60},
+        {"name": "Assembling Electronic Components", "icon": "fas fa-tools", "level": 80},
+        {"name": "Microsoft Office", "icon": "fas fa-file-word", "level": 80}
+    ]
+}

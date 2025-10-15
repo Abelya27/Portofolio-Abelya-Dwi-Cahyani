@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Prototype of Air Quality Monitoring System Based on Internet of Things Using MQ-135 Sensor",
+        "year": "2024",
+        "partner": "Huda Syafi'i Fauzan",
+        "role": "Wiring Technician",
+        "description": "Developed an IoT-based air quality monitoring system using the MQ-135 sensor to track indoor pollutant levels in real time. The system enables timely responses to maintain air quality and support healthier living environments.",
+        "image": "images/Project1.png"
+    },
+    {
+        "title": "Egg Sorting System Using Load Cell Sensor",
+        "year": "2023",
+        "partner": "Adhika Satriya Mahardika, Della Elriano Tama, M. Faruq Kamal, dan Rayhan Malika Ramadhani",
+        "role": "Electronics Assembler",
+        "description": "Egg-sorting system using a load cell to classify eggs by weight — built for a Sensors and Transducers course project.",
+        "image": "images/Project2.jpeg"
+    },
+	{
+        "title": "Bottle Cap Quality Control System Using ESP32",
+        "year": "2024",
+        "partner": "PT Ruang Industri Indonesia | Sindhy Paramita Rusmedi & Firda Pramesti",
+        "role": "ESP32 Programmer",
+        "description": "An ESP32-based bottle cap quality control system that automatically sorts beverage bottles. Bottles with loose or missing caps are removed from the conveyor, while those that pass the inspection continue to the end of the line.",
+        "image": "images/Project3.png"
+    }
+]
